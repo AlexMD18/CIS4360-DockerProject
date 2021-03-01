@@ -19,4 +19,4 @@ Containers isolate software from their environments to ensure that they will con
 
 ![image](https://user-images.githubusercontent.com/60632552/109567101-cef71a00-7ab2-11eb-8184-9bdee63405af.png)
 
-Using a Docker is a way to make the application a microservice since it allows the developer to 
+Using a Docker is a way to make the application a microservice since it allows the developer to create new additions and updates, and roll them out wuthout disrupting the service. It reduces the amount of time required between development and production.
