@@ -15,7 +15,7 @@ In part 2, the image was created and built. Part 3 shows how to run the containe
 ![image](https://user-images.githubusercontent.com/60632552/109564144-a79e4e00-7aae-11eb-9e14-fe9ccfcc8cd1.png)
 
 #### Docker vs. PC
-Containers isolate software from their environments to ensure that they will continue to work regardless of differences in development. The Docker runs on a PC so it will use the computer's resources to complete tasks which means they are very lightweight and efficient. Containers are an abstraction at the app layer that packages code and dependencies together.
+Docker is a platform that allows a developer to manage and create containers that encapsulate applications. Containers isolate software from their environments to ensure that they will continue to work regardless of differences in development. The Docker runs on a PC so it will use the computer's resources to complete tasks which means they are very lightweight and efficient. Containers are an abstraction at the app layer that packages code and dependencies together.
 
 ![image](https://user-images.githubusercontent.com/60632552/109567101-cef71a00-7ab2-11eb-8184-9bdee63405af.png)
 
