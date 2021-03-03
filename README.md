@@ -14,6 +14,11 @@ This step took a long time to complete as it installed all the files required to
 In part 2, the image was created and built. Part 3 shows how to run the container that was just created. This was a simple command that told the docker to run the application on map port 80, host port 80, and the name of the application.
 ![image](https://user-images.githubusercontent.com/60632552/109564144-a79e4e00-7aae-11eb-9e14-fe9ccfcc8cd1.png)
 
+#### Part 4: Images
+This is the view of all of the containers that were created. They can be run on this page.
+![image](https://user-images.githubusercontent.com/60632552/109854858-8c098380-7c25-11eb-9584-833aad6d2e99.png)
+
+
 #### Docker vs. PC
 Docker is a platform that allows a developer to manage and create containers that encapsulate applications. Containers isolate software from their environments to ensure that they will continue to work regardless of differences in development. The Docker runs on a PC so it will use the computer's resources to complete tasks which means they are very lightweight and efficient. Containers are an abstraction at the app layer that packages code and dependencies together.
 
